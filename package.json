@@ -1,6 +1,6 @@
 {
   "name": "nse-bse-indian-stock-market-data-mcp",
-  "version": "0.1.31",
+  "version": "0.1.32",
   "description": "Indian stock market MCP server for NSE & BSE \u2014 55 tools across all 8,200+ stocks: live quotes, financials, technicals, 326-ratio screener, FII/DII flows, option chains & IV, filings, IPOs & portfolio. Remote (OAuth) or npx. Works with Claude, ChatGPT, Cursor, VS Code, Codex & Gemini CLI",
   "main": "src/index.ts",
   "scripts": {
